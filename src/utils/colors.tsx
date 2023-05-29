@@ -1,0 +1,14 @@
+export default {
+    WHITE:"#ffffff",
+    DARKPURPLE:'#3A3F67',
+    GRAY:'#DFDFDF',
+    LIGHTGRAY:"#EDEDED",
+    DARKGRAY:'#7D7F88',
+    BLACK:'#000000',
+    ORANGE:'#FA6E42',
+    SLATEGRAY:'#8391A1',
+    LIGHTSILVER:'#F5F4F8',
+    BLACKGRAY:'#7D7F88',
+    LIGHTORANGE:'#FFF0EC'
+
+}
